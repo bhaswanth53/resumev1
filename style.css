@@ -82,11 +82,11 @@ div.sheet {
     letter-spacing: 0.5px;
 }
 .icontext .logo {
-    font-size: 30px;
+    font-size: 15px;
     background-color: #D9D9D9;
     color: #272b30;
-    width: 60px;
-    height: 60px;
+    width: 35px;
+    height: 35px;
     border: 0;
     cursor: pointer;
     border-radius: 50%;
